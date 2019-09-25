@@ -10,7 +10,7 @@
 
 ```javascript
 //element 表单验证规则
- import { $validator } from "ymhy-tool";
+ import { $validator } from "vue-public";
  Vue.prototype.$validator = $validator;
  <el-form-item prop="key" :rules=[$validator.require(),[$validator.requireChange()]></el-form-item>
 ```
@@ -30,7 +30,7 @@
 ```
 
 ```javascript
-import { commonTable, request } from "ymhy-tool";
+import { commonTable, request } from "vue-public";
 export default {
    components:{
     commonTable
