@@ -4,7 +4,7 @@
 
 ### 安装
 
-- npm install ymhy-tool --save
+- npm install vue-public --save
 
 #### 如何使用\$validator
 
