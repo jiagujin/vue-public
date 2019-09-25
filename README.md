@@ -1,4 +1,4 @@
-## ymhy-tool
+## vue-public
 
 > 前端公共组件
 
