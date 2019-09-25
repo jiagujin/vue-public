@@ -1,6 +1,6 @@
 {
   "name": "vue-public",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "前端公共组件",
   "main": "src/index.js",
   "scripts": {
