@@ -12,7 +12,7 @@
 //element 表单验证规则
  import { $validator } from "vue-public";
  Vue.prototype.$validator = $validator;
- <el-form-item prop="key" :rules=[$validator.require(),[$validator.requireChange()]></el-form-item>
+ <el-form-item prop="key" :rules=[$validator.require(),$validator.requireChange()]></el-form-item>
 ```
 
 #### 如何使用 table
